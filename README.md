@@ -63,7 +63,9 @@
 
 ### Other projects
 
-![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
+| URL | Description/Notes |
+|-----|-------------------|
+| [osu! matchmaking](https://oma.hwc.hr/) | Competitive matchmaking system for osu! |
 
 ### Contributing
 
