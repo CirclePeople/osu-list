@@ -88,7 +88,10 @@ Please follow these guidelines when adding a project:
 - Familiarize yourself with [Markdown](https://www.markdownguide.org/cheat-sheet/) so you don't break things.
 - Provide some (concise) details about your project.
 - Avoid using link shorteners when possible.
+  - These are hard to moderate and deal with, hard links are appreciated (ex. A clean Discord invite link, a website, or a Git page for your bot)  
 - This goes without saying, but it should be relevant to osu!.
+  - It also should not break osu! rules (ex. tools that give advantages that interact with the client, custom servers, etc.) If you don't know, ask.
 
 ### Notice
-This document is released under the CC BY-SA 4.0 license. Circle People is not affiliated with & does not endorse any projects listed above. 
+This document is released under the CC BY-SA 4.0 license. **Circle People is not affiliated with & does not endorse any projects listed above.** 
+"osu!" and "ppy" are trademarks of ppy Pty Ltd. & are not affiliated with Circle People.
