@@ -15,30 +15,7 @@
 | [osu!framework](https://github.com/ppy/osu-framework) | The framework that powers osu!, including features that can be used to make other games/applications |
 | [other osu! projects](https://github.com/ppy)         | Other official osu!team projects can be found here.                                                  |
 
-### API libraries
-
-| Library    | Language | Description/Notes                                       |
-|------------|----------|---------------------------------------------------------|
-| [aiosu](https://github.com/niceaesth/aiosu)  | python   | Async python library for interacting with the osu! API. | 
-| [ossapi](https://github.com/circleguard/ossapi) | python   | Synchronous python library for interacting with the osu! API. |
-| [osu-api-extended](https://github.com/cyperdark/osu-api-extended)   | typescript  |   
-| [rosu-v2](https://github.com/MaxOhn/rosu-v2) | rust | Actively maintained osu!apiv2 wrapper |
-| [rosu](https://github.com/MaxOhn/rosu) | rust | |
-
-
-### Utility libraries
-
-| Library    | Language | Description/Notes                                       |
-|------------|----------|---------------------------------------------------------|
-| [rosu-pp](https://github.com/MaxOhn/rosu-pp) | rust | Standalone crate to calculate star ratings and performance points for all osu! gamemodes |
-| [osu-classes](https://github.com/kionell/osu-classes) | typescript | Rewrite of the basic class structure of osu!lazer in TypeScript |
-| [osu-parsers](https://github.com/kionell/osu-parsers) | typescript | A bundle of TS parsers for all osu! data formats |
-| [osu-pp-calculator](https://github.com/kionell/osu-pp-calculator) | typescript | The most up-to-date TS star rating/performance calculator library |
-| [gosu-pp](https://github.com/Wieku/gosu-pp) | go | Port of osu!lazer difficulty and performance calculator in go
-| [rosu-pp-py](https://github.com/MaxOhn/rosu-pp-py) | python | Python bindings for rosu-pp |
-| [rosu-pp-js](https://github.com/MaxOhn/rosu-pp-js) | javascript | JS bindings for rosu-pp |
-| [akatsuki-pp-go](https://github.com/osuAkatsuki/akatsuki-pp-go) | golang | Go bindings for rosu-pp |
-| [akatsuki-pp](https://github.com/osuAkatsuki/Akatsuki.PP) | c# | c# bindings for rosu-pp
+## Gameplay 
 
 ### Rulesets
 
@@ -79,9 +56,37 @@
 | [Sombrax79](https://ost.sombrax79.org/commands) | Discord / Ingame / Website | Bot for stamina training recoomendations |
 
 
+## Development
+
+### API libraries
+
+| Library    | Language | Description/Notes                                       |
+|------------|----------|---------------------------------------------------------|
+| [aiosu](https://github.com/niceaesth/aiosu)  | python   | Async python library for interacting with the osu! API. | 
+| [ossapi](https://github.com/circleguard/ossapi) | python   | Synchronous python library for interacting with the osu! API. |
+| [osu-api-extended](https://github.com/cyperdark/osu-api-extended)   | typescript  |   
+| [rosu-v2](https://github.com/MaxOhn/rosu-v2) | rust | Actively maintained osu!apiv2 wrapper |
+| [rosu](https://github.com/MaxOhn/rosu) | rust | |
 
 
-### Other projects
+### Utility libraries
+
+| Library    | Language | Description/Notes                                       |
+|------------|----------|---------------------------------------------------------|
+| [rosu-pp](https://github.com/MaxOhn/rosu-pp) | rust | Standalone crate to calculate star ratings and performance points for all osu! gamemodes |
+| [osu-classes](https://github.com/kionell/osu-classes) | typescript | Rewrite of the basic class structure of osu!lazer in TypeScript |
+| [osu-parsers](https://github.com/kionell/osu-parsers) | typescript | A bundle of TS parsers for all osu! data formats |
+| [osu-pp-calculator](https://github.com/kionell/osu-pp-calculator) | typescript | The most up-to-date TS star rating/performance calculator library |
+| [gosu-pp](https://github.com/Wieku/gosu-pp) | go | Port of osu!lazer difficulty and performance calculator in go
+| [rosu-pp-py](https://github.com/MaxOhn/rosu-pp-py) | python | Python bindings for rosu-pp |
+| [rosu-pp-js](https://github.com/MaxOhn/rosu-pp-js) | javascript | JS bindings for rosu-pp |
+| [akatsuki-pp-go](https://github.com/osuAkatsuki/akatsuki-pp-go) | golang | Go bindings for rosu-pp |
+| [akatsuki-pp](https://github.com/osuAkatsuki/Akatsuki.PP) | c# | c# bindings for rosu-pp
+| [bancho.js](https://github.com/ThePooN/bancho.js) | javascript | ThePoon's bancho library |
+| [slider](https://github.com/llllllllll/slider) | python | osu! file format parser |
+
+
+## Other projects
 
 | URL | Description/Notes |
 |-----|-------------------|
@@ -90,6 +95,7 @@
 | [danser](https://github.com/Wieku/danser-go) | open-source osu! visualisation and replay recording tool | 
 | [osu! batch beatmap downloader](https://github.com/nzbasic/batch-beatmap-downloader) | Tool for easily downloading large amounts of osu! maps |
 | [osu-trainer](https://github.com/FunOrange/osu-trainer) | Tool, that allows you to create speed up difficulties of maps |
+
 
 ### Contributing
 
