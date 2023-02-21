@@ -27,10 +27,10 @@
 
 | Library    | Language | Description/Notes                                       |
 |------------|----------|---------------------------------------------------------|
-| [rosu-pp](https://github.com/MaxOhn/rosu-pp) | Rust | Standalone crate to calculate star ratings and performance points for all osu! gamemodes |
-| [akatsuki-pp-py](https://github.com/osuAkatsuki/akatsuki-pp-py) | Python | Python bindings for rosu-pp |
-| [akatsuki-pp-go](https://github.com/osuAkatsuki/akatsuki-pp-go) | Golang | Go bindings for rosu-pp |
-| [akatsuki-pp](https://github.com/osuAkatsuki/Akatsuki.PP) | C# | C# bindings for rosu-pp
+| [rosu-pp](https://github.com/MaxOhn/rosu-pp) | rust | Standalone crate to calculate star ratings and performance points for all osu! gamemodes |
+| [akatsuki-pp-py](https://github.com/osuAkatsuki/akatsuki-pp-py) | python | Python bindings for rosu-pp |
+| [akatsuki-pp-go](https://github.com/osuAkatsuki/akatsuki-pp-go) | golang | Go bindings for rosu-pp |
+| [akatsuki-pp](https://github.com/osuAkatsuki/Akatsuki.PP) | c# | c# bindings for rosu-pp
 
 ### Rulesets
 
