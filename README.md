@@ -50,7 +50,7 @@
 | Bot | Platform | Description/Notes |
 |-----|----------|-------------------|
 | [owo!](http://owo-bot.xyz/) | Discord | Popular osu! tracking and score bot |
-| [Sunny](https://s.aesth.dev/sunny-invite) | Discord | osu! bot with support for restricted users and osu! login |
+| [Sunny](https://discord.com/oauth2/authorize?client_id=376679719044907019&scope=bot) | Discord | osu! bot with support for restricted users and osu! login |
 | [Bathbot](https://discord.com/api/oauth2/authorize?client_id=297073686916366336&permissions=309238025216&scope=bot%20applications.commands) | Discord | Feature-rich bot for osu! |
 | [BoatBot](https://docs.iaace.gg/) | Discord | Oldest active osu! Discord bot |
 | [MissAnalyzer](https://top.gg/bot/752035690237394944) | Discord | osu! bot for replay analysis |
