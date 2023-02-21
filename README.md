@@ -66,6 +66,7 @@
 | URL | Description/Notes |
 |-----|-------------------|
 | [osu! matchmaking](https://oma.hwc.hr/) | Competitive matchmaking system for osu! |
+| [minipad](https://github.com/minipadkb) | open-source wooting-like analog keypad with rapid trigger |
 
 ### Contributing
 
