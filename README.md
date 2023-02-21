@@ -26,7 +26,7 @@ These are game clients that *do not connect to osu! servers*, but may be useful 
 | [opsu!](https://itdelatrisu.github.io/opsu/)              | Unofficial osu! client in Java                           |
 | [osu!droid](http://ops.dgsrz.com/)                        | An open-source client for osu! on the Android platform   |
 | [McOsu](https://store.steampowered.com/app/607260/McOsu/) | An osu! client designed for practice, with VR support    |
-| [Danser][4]                                               | open-source osu! visualisation and replay recording tool |
+| [Danser][danser]                                          | open-source osu! visualisation and replay recording tool |
 
 ### Rulesets
 
@@ -54,16 +54,16 @@ These are game clients that *do not connect to osu! servers*, but may be useful 
 
 ### Chatbots (Discord)
 
-| Bot                                                   | Description/Notes                                                   |
-| ----------------------------------------------------- | ------------------------------------------------------------------- |
-| [owo!](http://owo-bot.xyz/)                           | Popular osu! tracking and score bot                                 |
-| [Sunny][3]                                            | osu! bot with support for restricted users and osu! login           |
-| [Bathbot][1]                                          | Feature-rich bot for osu!                                           |
-| [Quna][2]                                             | Actively developed osu! bot that supports unranked score submission |
-| [MissAnalyzer](https://top.gg/bot/752035690237394944) | osu! bot for replay analysis                                        |
-| [Yuna](https://top.gg/bot/832597585923014676)         | osu! replay recording bot                                           |
-| [Shisha](https://shisha.mezo.xyz/)                    | osu! replay recording bot approved by the creator of [danser][4]    |
-| [Sombrax79](https://ost.sombrax79.org/commands)       | Bot for stamina training recoomendations                            |
+| Bot                                                   | Description/Notes                                                     |
+| ----------------------------------------------------- | --------------------------------------------------------------------- |
+| [owo!](http://owo-bot.xyz/)                           | Popular osu! tracking and score bot                                   |
+| [Sunny][sunny]                                        | osu! bot with support for restricted users and osu! login             |
+| [Bathbot][bathbot]                                    | Feature-rich bot for osu!                                             |
+| [Quna][quna]                                          | Actively developed osu! bot that supports unranked score submission   |
+| [MissAnalyzer](https://top.gg/bot/752035690237394944) | osu! bot for replay analysis                                          |
+| [Yuna](https://top.gg/bot/832597585923014676)         | osu! replay recording bot                                             |
+| [Shisha](https://shisha.mezo.xyz/)                    | osu! replay recording bot approved by the creator of [danser][danser] |
+| [Sombrax79](https://ost.sombrax79.org/commands)       | Bot for stamina training recoomendations                              |
 
 ### Bots (in-game)
 
@@ -150,9 +150,9 @@ Please follow these guidelines when adding a project:
 This document is released under the CC BY-SA 4.0 license. **Circle People is not affiliated with & does not endorse any projects listed above.**
 "osu!" and "ppy" are trademarks of ppy Pty Ltd. & are not affiliated with Circle People.
 
-[//]: <> (Reference links.)
+[//]: <> (Reference links sorted alphabetically)
 
-[1]: https://discord.com/api/oauth2/authorize?client_id=297073686916366336&permissions=309238025216&scope=bot%20applications.commands
-[2]: https://discord.com/api/oauth2/authorize?client_id=957969843343200276&permissions=2147863616&scope=applications.commands%20bot
-[3]: https://discord.com/oauth2/authorize?client_id=376679719044907019&scope=bot
-[4]: https://github.com/Wieku/danser-go
+[bathbot]: https://discord.com/api/oauth2/authorize?client_id=297073686916366336&permissions=309238025216&scope=bot%20applications.commands
+[quna]: https://discord.com/api/oauth2/authorize?client_id=957969843343200276&permissions=2147863616&scope=applications.commands%20bot
+[sunny]: https://discord.com/oauth2/authorize?client_id=376679719044907019&scope=bot
+[danser]: https://github.com/Wieku/danser-go
