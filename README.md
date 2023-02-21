@@ -44,14 +44,6 @@ These are game clients that *do not connect to osu! servers*, but may be useful 
 | [Chimu](https://chimu.moe/)            |                                               |
 | [Mino](https://catboy.best/)           |                                               |
 
-### Skins
-
-![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
-
-| URL                                                  | Description/Notes                            |
-| ---------------------------------------------------- | -------------------------------------------- |
-| [rudj skinhub](https://github.com/rudj-skinhub/woal) | Collection of skin sources from many players |
-
 ### Chatbots (Discord)
 
 | Bot                                                   | Description/Notes                                                     |
@@ -83,21 +75,62 @@ These are game clients that *do not connect to osu! servers*, but may be useful 
 
 ![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
 
+### Userscripts
+
+- [osuplus](https://github.com/limjeck/osuplus) - **requires osu! APIv1 key**
+- [osu-web extended](https://osu.ppy.sh/community/forums/topics/1361818)
+
+### Collections
+
+| URL                                                                 | Description                                                                 |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [CollectionManager](https://github.com/Piotrekol/CollectionManager) | An extensive tool for creating, editing, and exporting of osu! collections. |
+
 ## Mapping
 
 ![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
 
+| URL                                                        | Description                     |
+| ---------------------------------------------------------- | ------------------------------- |
+| [storybrew](https://github.com/Damnae/storybrew)           | Storyboard generator for osu!   |
+| [mapping_tools](https://github.com/OliBomby/Mapping_Tools) | Tools for manipulating beatmaps |
+
+## Skins
+
+### Skinning resources
+
+![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
+
+| URL                                   | Description             |
+| ------------------------------------- | ----------------------- |
+| [osuskinner](https://osuskinner.com/) | Skin generator for osu! |
+
+### Skin listing
+
+![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
+
+| URL                                                  | Description/Notes                                    |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| [Circle People](https://circlepeople.com)            | Skins from many top players featured on the channel. |
+| [rudj skinhub](https://github.com/rudj-skinhub/woal) | Collection of skin sources from many players         |
+
 ## Development
+
+### Documentation
+
+- [osu!api v1 documentation](https://github.com/ppy/osu-api/wiki)
+- [osu!api v2 documentation](https://osu.ppy.sh/docs/index.html)
 
 ### API libraries
 
-| Library                                                           | Language   | Description/Notes                                             |
-| ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------- |
-| [aiosu](https://github.com/niceaesth/aiosu)                       | python     | Async python library for interacting with the osu! API.       |
-| [ossapi](https://github.com/circleguard/ossapi)                   | python     | Synchronous python library for interacting with the osu! API. |
-| [osu-api-extended](https://github.com/cyperdark/osu-api-extended) | typescript |                                                               |
-| [rosu-v2](https://github.com/MaxOhn/rosu-v2)                      | rust       | Actively maintained osu!apiv2 wrapper                         |
-| [rosu](https://github.com/MaxOhn/rosu)                            | rust       |                                                               |
+| Library                                                           | Language   | Description/Notes                                                                     |
+| ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- |
+| [aiosu](https://github.com/niceaesth/aiosu)                       | python     | Async python library for interacting with the osu! API.                               |
+| [ossapi](https://github.com/circleguard/ossapi)                   | python     | Python library for interacting with the osu! API.                                     |
+| [osu-api-extended](https://github.com/cyperdark/osu-api-extended) | typescript |                                                                                       |
+| [rosu-v2](https://github.com/MaxOhn/rosu-v2)                      | rust       | Actively maintained osu!apiv2 wrapper                                                 |
+| [rosu](https://github.com/MaxOhn/rosu)                            | rust       |                                                                                       |
+| [OsuSharp](https://github.com/Kiritsu/OsuSharp)                   | c#         | Unofficial wrapper for the osu! API (V1, V2) written in C# and compatible with .NET 5 |
 
 ### Utility libraries
 
@@ -139,7 +172,11 @@ These are game clients that *do not connect to osu! servers*, but may be useful 
 Feel free to join the Discord above and join the thread for this list if you want to improve it!
 Alternatively, create a discussion if you want to discuss here on GitHub.
 
-This document is a work in progress. Feel free to add your project here by forking the repository and adding your project via a Pull Request.
+This document is a work in progress. Feel free to improve it by:
+
+- Adding new, unique projects.
+- Improving formatting.
+- Updating statuses of projects that have been abandoned.
 
 Please follow these guidelines when adding a project:
 
@@ -151,8 +188,7 @@ Please follow these guidelines when adding a project:
   - These are hard to moderate and deal with, hard links are appreciated (ex. A clean Discord invite link, a website, or a Git page for your bot)
 - Long links can be dealt with by using [reference style links](https://www.markdownguide.org/basic-syntax/). This helps people using the web editor to help readability.
 - If you link to another project in the description that is already on this page, use a reference style link as well.
-- When using the GitHub web editor use `Soft-wrap` so it doesn't look terrible when editing long tables.
-
+- When using the GitHub web editor use `No wrap` option so it doesn't look terrible when editing long tables.
 
 ## Notice
 
