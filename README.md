@@ -66,6 +66,7 @@
 | [Yuna](https://top.gg/bot/832597585923014676) | Discord | osu! replay recording bot |
 | [Ronnia](https://ronnia.me/) | Ingame / Twitch | Bot for linking maps from Twitch to ingame chat |
 | [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) | Ingame | Bot for beatmap recommendations |
+| [Sombrax79](https://ost.sombrax79.org/commands) | Ingame/Website | Bot for stamina training recoomendations |
 
 
 
