@@ -125,6 +125,13 @@ These are game clients that *do not connect to osu! servers*, but may be useful 
 | [osu-trainer](https://github.com/FunOrange/osu-trainer)                              | Tool, that allows you to create speed up difficulties of maps |
 | [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)             | Open source, cross-platform, user-mode tablet driver          |
 
+[//]: <> (Reference links sorted alphabetically)
+
+[bathbot]: https://discord.com/api/oauth2/authorize?client_id=297073686916366336&permissions=309238025216&scope=bot%20applications.commands
+[danser]: https://github.com/Wieku/danser-go
+[quna]: https://discord.com/api/oauth2/authorize?client_id=957969843343200276&permissions=2147863616&scope=applications.commands%20bot
+[sunny]: https://discord.com/oauth2/authorize?client_id=376679719044907019&scope=bot
+
 ---
 
 ## Contributing
@@ -137,22 +144,17 @@ This document is a work in progress. Feel free to add your project here by forki
 Please follow these guidelines when adding a project:
 
 - Familiarize yourself with [Markdown](https://www.markdownguide.org/cheat-sheet/) so you don't break things.
+- This goes without saying, but it should be relevant to osu!.
+  - It also should not break osu! rules (ex. tools that give advantages that interact with the client, custom servers, etc.) If you don't know, ask.
 - Provide some (concise) details about your project.
 - Avoid using link shorteners when possible.
   - These are hard to moderate and deal with, hard links are appreciated (ex. A clean Discord invite link, a website, or a Git page for your bot)
-  - Long links can be dealt with by using [reference style links](https://www.markdownguide.org/basic-syntax/). This helps people using the web editor to help readability.
-  - If you link to another project in the description that is already on this page, use a reference style link as well.
-- This goes without saying, but it should be relevant to osu!.
-  - It also should not break osu! rules (ex. tools that give advantages that interact with the client, custom servers, etc.) If you don't know, ask.
+- Long links can be dealt with by using [reference style links](https://www.markdownguide.org/basic-syntax/). This helps people using the web editor to help readability.
+- If you link to another project in the description that is already on this page, use a reference style link as well.
+- When using the GitHub web editor use `Soft-wrap` so it doesn't look terrible when editing long tables.
+
 
 ## Notice
 
 This document is released under the CC BY-SA 4.0 license. **Circle People is not affiliated with & does not endorse any projects listed above.**
 "osu!" and "ppy" are trademarks of ppy Pty Ltd. & are not affiliated with Circle People.
-
-[//]: <> (Reference links sorted alphabetically)
-
-[bathbot]: https://discord.com/api/oauth2/authorize?client_id=297073686916366336&permissions=309238025216&scope=bot%20applications.commands
-[quna]: https://discord.com/api/oauth2/authorize?client_id=957969843343200276&permissions=2147863616&scope=applications.commands%20bot
-[sunny]: https://discord.com/oauth2/authorize?client_id=376679719044907019&scope=bot
-[danser]: https://github.com/Wieku/danser-go
