@@ -82,14 +82,14 @@ An awesome-style list of osu! projects built by the community. Circle People is 
 | [MissAnalyzer](https://top.gg/bot/752035690237394944) | osu! bot for replay analysis                                          |
 | [Yuna](https://top.gg/bot/832597585923014676)         | osu! replay recording bot                                             |
 | [Shisha](https://shisha.mezo.xyz/)                    | osu! replay recording bot approved by the creator of [danser][danser] |
-| [Sombrax79](https://ost.sombrax79.org/commands)       | Bot for stamina training recoomendations                              |
+| [Sombrax79](https://ost.sombrax79.org/commands)       | Bot for stamina training recommendations                              |
 
 #### In-game 
 
 | Bot                                                         | Description/Notes                        |
 | ----------------------------------------------------------- | ---------------------------------------- |
 | [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) | Bot for beatmap recommendations          |
-| [Sombrax79](https://ost.sombrax79.org/commands)             | Bot for stamina training recoomendations |
+| [Sombrax79](https://ost.sombrax79.org/commands)             | Bot for stamina training recommendations |
 
 ### Streaming tools
 
