@@ -25,19 +25,39 @@
 
 ### Rulesets
 
-![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
+| URL | Description/Notes |
+|-----|-------------------|
+| [Custom ruleset directory](https://github.com/ppy/osu/discussions/13096) | Official directory for lazer custom rulesets |
 
 ### Beatmap mirrors
 
-![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
+| Mirror | Description/Notes |
+|--------|-------------------|
+| [Beatconnect](https://beatconnect.io/) | Comprehensive beatmap mirror (requires API key) |
+| [Nerinyan](https://nerinyan.moe/) | |
+| [Kitsu](https://kitsu.moe/) | |
+| [Chimu](https://chimu.moe/) | |
+| [Mino](https://catboy.best/) | |
 
 ### Skins 
 
-![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
+| URL | Description/Notes |
+|-----|-------------------|
+| [rudj skinhub](https://github.com/rudj-skinhub/woal) | Collection of skin sources from many players |
 
 ### Chatbots (Discord/Ingame) 
 
-![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
+| Bot | Platform | Description/Notes |
+|-----|----------|-------------------|
+| [owo!](http://owo-bot.xyz/) | Discord | Popular osu! tracking and score bot |
+| [Sunny](https://s.aesth.dev/sunny-invite) | Discord | osu! bot with support for restricted users and osu! login |
+| [Bathbot](https://discord.com/api/oauth2/authorize?client_id=297073686916366336&permissions=309238025216&scope=bot%20applications.commands) | Discord | Feature-rich bot for osu! |
+| [BoatBot](https://docs.iaace.gg/) | Discord | Oldest active osu! Discord bot |
+| [MissAnalyzer](https://top.gg/bot/752035690237394944) | Discord | osu! bot for replay analysis |
+| [Yuna](https://top.gg/bot/832597585923014676) | Discord | osu! replay recording bot |
+| [Ronnia](https://ronnia.me/) | Ingame / Twitch | Bot for linking maps from Twitch to ingame chat |
+
+
 
 
 ### Other projects
