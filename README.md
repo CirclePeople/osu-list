@@ -1,12 +1,35 @@
 # osu-list [![Support Server](https://img.shields.io/discord/211953616918020107.svg?color=7289da&label=Circle%20People&logo=discord&style=flat-square)](https://discord.gg/circlepeople)
 
-An awesome-style list of osu! projects built by the community. Circle People is not affiliated with & does not endorse any projects listed above.
+An awesome-style list of osu! projects built by the community. Circle People is not affiliated with & does not endorse any projects listed here.
 
-## Table of contents
-
-![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
+## Table of Contents
+  * [Official osu! projects](#official-osu-projects)
+  * [Gameplay](#gameplay)
+    + [Alternative game clients](#alternative-game-clients)
+    + [Rulesets](#rulesets)
+    + [Beatmap mirrors](#beatmap-mirrors)
+    + [Chatbots](#chatbots)
+      - [Discord](#discord)
+      - [In-game](#in-game)
+    + [Streaming tools](#streaming-tools)
+    + [Chat clients](#chat-clients)
+    + [Userscripts](#userscripts)
+    + [Collections](#collections)
+  * [Mapping](#mapping)
+  * [Skins](#skins)
+    + [Skinning resources](#skinning-resources)
+    + [Skin listing](#skin-listing)
+  * [Development](#development)
+    + [Documentation](#documentation)
+    + [API libraries](#api-libraries)
+    + [Utility libraries](#utility-libraries)
+  * [Other projects](#other-projects)
+  * [Contributing](#contributing)
+  * [Notice](#notice)
 
 ## Official osu! projects
+
+###### These projects are built by the osu! team directly.  
 
 | URL                                                   | Description/Notes                                                                                    |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -21,7 +44,7 @@ An awesome-style list of osu! projects built by the community. Circle People is 
 
 ### Alternative game clients
 
-These are game clients that *do not connect to osu! servers*, but may be useful for practice, writing tools or other things.
+###### These are game clients that *do not connect to osu! servers*, but may be useful for practice, writing tools or other things.
 
 | Client                                                    | Description                                              |
 | --------------------------------------------------------- | -------------------------------------------------------- |
@@ -46,7 +69,9 @@ These are game clients that *do not connect to osu! servers*, but may be useful 
 | [Chimu](https://chimu.moe/)            |                                               |
 | [Mino](https://catboy.best/)           |                                               |
 
-### Chatbots (Discord)
+### Chatbots
+
+#### Discord
 
 | Bot                                                   | Description/Notes                                                     |
 | ----------------------------------------------------- | --------------------------------------------------------------------- |
@@ -59,7 +84,7 @@ These are game clients that *do not connect to osu! servers*, but may be useful 
 | [Shisha](https://shisha.mezo.xyz/)                    | osu! replay recording bot approved by the creator of [danser][danser] |
 | [Sombrax79](https://ost.sombrax79.org/commands)       | Bot for stamina training recoomendations                              |
 
-### Bots (in-game)
+#### In-game 
 
 | Bot                                                         | Description/Notes                        |
 | ----------------------------------------------------------- | ---------------------------------------- |
