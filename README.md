@@ -1,4 +1,4 @@
-## An awesome-style list of osu! projects. 
+## An awesome-style list of osu! projects. [![Support Server](https://img.shields.io/discord/211953616918020107.svg?color=7289da&label=Circle%20People&logo=discord&style=flat-square)](https://discord.gg/circlepeople)
 
 ### Table of contents
 
@@ -68,6 +68,8 @@
 | [osu! matchmaking](https://oma.hwc.hr/) | Competitive matchmaking system for osu! |
 
 ### Contributing
+
+Feel free to join the Discord above and join the thread for this list if you want to improve it!
 
 This document is a work in progress. Feel free to add your project here by forking the repository and adding your project via a Pull Request. 
 
