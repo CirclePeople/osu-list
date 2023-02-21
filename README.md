@@ -4,7 +4,7 @@
 
 ![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
 
-### Official osu! projects
+## Official osu! projects
 
 | URL                                                   | Description/Notes                                                                                    |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -96,8 +96,8 @@
 | [osu! batch beatmap downloader](https://github.com/nzbasic/batch-beatmap-downloader) | Tool for easily downloading large amounts of osu! maps |
 | [osu-trainer](https://github.com/FunOrange/osu-trainer) | Tool, that allows you to create speed up difficulties of maps |
 
-
-### Contributing
+--- 
+## Contributing
 
 Feel free to join the Discord above and join the thread for this list if you want to improve it!
 
