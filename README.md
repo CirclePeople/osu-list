@@ -120,7 +120,7 @@ These are game clients that *do not connect to osu! servers*, but may be useful 
 | URL                                                                                  | Description/Notes                                             |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
 | [osu! matchmaking](https://oma.hwc.hr/)                                              | Competitive matchmaking system for osu!                       |
-| [minipad](https://github.com/minipadkb)                                              | Open-Source wooting-like analog keypad with rapid trigger     |
+| [minipad](https://minipad.minii.moe)                                              | Open-Source wooting-like analog keypad with rapid trigger     |
 | [osu! batch beatmap downloader](https://github.com/nzbasic/batch-beatmap-downloader) | Tool for easily downloading large amounts of osu! maps        |
 | [osu-trainer](https://github.com/FunOrange/osu-trainer)                              | Tool, that allows you to create speed up difficulties of maps |
 | [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)             | Open source, cross-platform, user-mode tablet driver          |
