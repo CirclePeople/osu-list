@@ -21,14 +21,22 @@
 |------------|----------|---------------------------------------------------------|
 | [aiosu](https://github.com/niceaesth/aiosu)  | python   | Async python library for interacting with the osu! API. | 
 | [ossapi](https://github.com/circleguard/ossapi) | python   | Synchronous python library for interacting with the osu! API. |
-| [osu-api-extended](https://github.com/cyperdark/osu-api-extended)   | typescript  |                                                         |
+| [osu-api-extended](https://github.com/cyperdark/osu-api-extended)   | typescript  |   
+| [rosu-v2](https://github.com/MaxOhn/rosu-v2) | rust | Actively maintained osu!apiv2 wrapper |
+| [rosu](https://github.com/MaxOhn/rosu) | rust | |
+
 
 ### Utility libraries
 
 | Library    | Language | Description/Notes                                       |
 |------------|----------|---------------------------------------------------------|
 | [rosu-pp](https://github.com/MaxOhn/rosu-pp) | rust | Standalone crate to calculate star ratings and performance points for all osu! gamemodes |
-| [akatsuki-pp-py](https://github.com/osuAkatsuki/akatsuki-pp-py) | python | Python bindings for rosu-pp |
+| [osu-classes](https://github.com/kionell/osu-classes) | typescript | Rewrite of the basic class structure of osu!lazer in TypeScript |
+| [osu-parsers](https://github.com/kionell/osu-parsers) | typescript | A bundle of TS parsers for all osu! data formats |
+| [osu-pp-calculator](https://github.com/kionell/osu-pp-calculator) | typescript | The most up-to-date TS star rating/performance calculator library |
+| [gosu-pp](https://github.com/Wieku/gosu-pp) | go | Port of osu!lazer difficulty and performance calculator in go
+| [rosu-pp-py](https://github.com/MaxOhn/rosu-pp-py) | python | Python bindings for rosu-pp |
+| [rosu-pp-js](https://github.com/MaxOhn/rosu-pp-js) | javascript | JS bindings for rosu-pp |
 | [akatsuki-pp-go](https://github.com/osuAkatsuki/akatsuki-pp-go) | golang | Go bindings for rosu-pp |
 | [akatsuki-pp](https://github.com/osuAkatsuki/Akatsuki.PP) | c# | c# bindings for rosu-pp
 
@@ -62,8 +70,10 @@
 | [Sunny](https://discord.com/oauth2/authorize?client_id=376679719044907019&scope=bot) | Discord | osu! bot with support for restricted users and osu! login |
 | [Bathbot](https://discord.com/api/oauth2/authorize?client_id=297073686916366336&permissions=309238025216&scope=bot%20applications.commands) | Discord | Feature-rich bot for osu! |
 | [BoatBot](https://docs.iaace.gg/) | Discord | Oldest active osu! Discord bot |
+| [Quna](https://discord.com/api/oauth2/authorize?client_id=957969843343200276&permissions=2147863616&scope=applications.commands%20bot) | Discord | Actively developed osu! bot that supports unranked score submission |
 | [MissAnalyzer](https://top.gg/bot/752035690237394944) | Discord | osu! bot for replay analysis |
 | [Yuna](https://top.gg/bot/832597585923014676) | Discord | osu! replay recording bot |
+| [Shisha](https://shisha.mezo.xyz/) | Discord | osu! replay recording bot approved by the creator of [danser](https://github.com/Wieku/danser-go) |
 | [Ronnia](https://ronnia.me/) | Ingame / Twitch | Bot for linking maps from Twitch to ingame chat |
 | [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) | Ingame | Bot for beatmap recommendations |
 | [Sombrax79](https://ost.sombrax79.org/commands) | Discord / Ingame / Website | Bot for stamina training recoomendations |
@@ -77,6 +87,9 @@
 |-----|-------------------|
 | [osu! matchmaking](https://oma.hwc.hr/) | Competitive matchmaking system for osu! |
 | [minipad](https://github.com/minipadkb) | Open-Source wooting-like analog keypad with rapid trigger |
+| [danser](https://github.com/Wieku/danser-go) | open-source osu! visualisation and replay recording tool | 
+| [osu! batch beatmap downloader](https://github.com/nzbasic/batch-beatmap-downloader) | Tool for easily downloading large amounts of osu! maps |
+| [osu-trainer](https://github.com/FunOrange/osu-trainer) | Tool, that allows you to create speed up difficulties of maps |
 
 ### Contributing
 
