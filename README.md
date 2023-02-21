@@ -19,10 +19,9 @@
 
 | Library    | Language | Description/Notes                                       |
 |------------|----------|---------------------------------------------------------|
-| [aiosu]()  | python   | Async python library for interacting with the osu! API. | 
-| [ossapi]() | python   |                                                         |
-|            |          |                                                         |
-|            |          |                                                         |
+| [aiosu](https://github.com/niceaesth/aiosu)  | python   | Async python library for interacting with the osu! API. | 
+| [ossapi](https://github.com/circleguard/ossapi) | python   | Synchronous python library for interacting with the osu! API. |
+| [osu-api-extended](https://github.com/cyperdark/osu-api-extended)   | typescript  |                                                         |
 
 ### Rulesets
 
