@@ -23,6 +23,15 @@
 | [ossapi](https://github.com/circleguard/ossapi) | python   | Synchronous python library for interacting with the osu! API. |
 | [osu-api-extended](https://github.com/cyperdark/osu-api-extended)   | typescript  |                                                         |
 
+### Utility libraries
+
+| Library    | Language | Description/Notes                                       |
+|------------|----------|---------------------------------------------------------|
+| [rosu-pp](https://github.com/MaxOhn/rosu-pp) | Rust | Standalone crate to calculate star ratings and performance points for all osu! gamemodes |
+| [akatsuki-pp-py](https://github.com/osuAkatsuki/akatsuki-pp-py) | Python | Python bindings for rosu-pp |
+| [akatsuki-pp-go](https://github.com/osuAkatsuki/akatsuki-pp-go) | Golang | Go bindings for rosu-pp |
+| [akatsuki-pp](https://github.com/osuAkatsuki/Akatsuki.PP) | C# | C# bindings for rosu-pp
+
 ### Rulesets
 
 | URL | Description/Notes |
@@ -66,7 +75,7 @@
 | URL | Description/Notes |
 |-----|-------------------|
 | [osu! matchmaking](https://oma.hwc.hr/) | Competitive matchmaking system for osu! |
-| [minipad](https://github.com/minipadkb) | open-source wooting-like analog keypad with rapid trigger |
+| [minipad](https://github.com/minipadkb) | Open-Source wooting-like analog keypad with rapid trigger |
 
 ### Contributing
 
