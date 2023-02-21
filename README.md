@@ -1,4 +1,6 @@
-# An awesome-style list of osu! projects. [![Support Server](https://img.shields.io/discord/211953616918020107.svg?color=7289da&label=Circle%20People&logo=discord&style=flat-square)](https://discord.gg/circlepeople)
+# osu-list [![Support Server](https://img.shields.io/discord/211953616918020107.svg?color=7289da&label=Circle%20People&logo=discord&style=flat-square)](https://discord.gg/circlepeople)
+
+An awesome-style list of osu! projects built by the community. Circle People is not affiliated with & does not endorse any projects listed above.
 
 ## Table of contents
 
@@ -123,6 +125,8 @@ These are game clients that *do not connect to osu! servers*, but may be useful 
 
 ### API libraries
 
+###### ⚠ These libraries are maintained by the community, and may have minor differences from the official API. Your mileage may vary.
+
 | Library                                                           | Language   | Description/Notes                                                                     |
 | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- |
 | [aiosu](https://github.com/niceaesth/aiosu)                       | python     | Async python library for interacting with the osu! API.                               |
@@ -153,7 +157,7 @@ These are game clients that *do not connect to osu! servers*, but may be useful 
 | URL                                                                                  | Description/Notes                                             |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
 | [osu! matchmaking](https://oma.hwc.hr/)                                              | Competitive matchmaking system for osu!                       |
-| [minipad](https://minipad.minii.moe)                                              | Open-Source wooting-like analog keypad with rapid trigger     |
+| [minipad](https://minipad.minii.moe)                                                 | Open-Source wooting-like analog keypad with rapid trigger     |
 | [osu! batch beatmap downloader](https://github.com/nzbasic/batch-beatmap-downloader) | Tool for easily downloading large amounts of osu! maps        |
 | [osu-trainer](https://github.com/FunOrange/osu-trainer)                              | Tool, that allows you to create speed up difficulties of maps |
 | [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)             | Open source, cross-platform, user-mode tablet driver          |
@@ -186,11 +190,10 @@ Please follow these guidelines when adding a project:
 - Provide some (concise) details about your project.
 - Avoid using link shorteners when possible.
   - These are hard to moderate and deal with, hard links are appreciated (ex. A clean Discord invite link, a website, or a Git page for your bot)
-- Long links can be dealt with by using [reference style links](https://www.markdownguide.org/basic-syntax/). This helps people using the web editor to help readability.
-- If you link to another project in the description that is already on this page, use a reference style link as well.
+  - Long links can be dealt with by using [reference style links](https://www.markdownguide.org/basic-syntax/). This helps people using the web editor to help  readability.
+  - If you link to another project in the description that is already on this page, use a reference style link as well.
 - When using the GitHub web editor use `No wrap` option so it doesn't look terrible when editing long tables.
 
 ## Notice
 
-This document is released under the CC BY-SA 4.0 license. **Circle People is not affiliated with & does not endorse any projects listed above.**
-"osu!" and "ppy" are trademarks of ppy Pty Ltd. & are not affiliated with Circle People.
+This document is released under the CC BY-SA 4.0 license. "osu!" and "ppy" are trademarks of ppy Pty Ltd. & are not affiliated with Circle People.
