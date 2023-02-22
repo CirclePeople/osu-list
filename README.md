@@ -174,6 +174,7 @@ Neither of these are official, however many users have reported success with the
 | [rosu-v2](https://github.com/MaxOhn/rosu-v2)                      | rust       | Actively maintained osu!apiv2 wrapper                                                 |
 | [rosu](https://github.com/MaxOhn/rosu)                            | rust       |                                                                                       |
 | [OsuSharp](https://github.com/Kiritsu/OsuSharp)                   | c#         | Unofficial wrapper for the osu! API (V1, V2) written in C# and compatible with .NET 5 |
+| [osu.py](https://github.com/SawshaDev/osu.py)                     | python     | An minimal async python wrapper for the osu API
 
 ### Utility libraries
 
