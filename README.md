@@ -95,10 +95,10 @@ Neither of these are official, however many users have reported success with the
 
 ### Bots (in-game)
 
-| Bot                                                         | Description/Notes                        |
-| ----------------------------------------------------------- | ---------------------------------------- |
-| [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) | Bot for beatmap recommendations          |
-| [Sombrax79](https://ost.sombrax79.org/commands)             | Bot for stamina training recoomendations |
+| Bot                                                         | Description/Notes                                       |
+| ----------------------------------------------------------- | --------------------------------------------------------|
+| [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) | Bot for beatmap recommendations                         |
+| [Sombrax79](https://ost.sombrax79.org/commands)             | Bot for stamina training recoomendations                |
 | [goeobot](https://osu.ppy.sh/users/24993021)                | Actively maintained irc bot for beatmap reccomendations |
 
 ### Streaming tools
