@@ -6,6 +6,7 @@ An awesome-style list of osu! projects built by the community. Circle People is 
 
   * [Official osu! projects](#official-osu-projects)
   * [Gameplay](#gameplay)
+    + [Other operating systems](#other-operating-systems-osu-stable-client)
     + [Alternative game clients](#alternative-game-clients)
     * [Rulesets](#rulesets)
     + [Beatmap mirrors](#beatmap-mirrors)
