@@ -43,6 +43,15 @@ An awesome-style list of osu! projects built by the community. Circle People is 
 
 ## Gameplay
 
+### Other operating systems (osu! stable client)
+
+###### 🤔 You may want to check out [osu!lazer](https://github.com/ppy/osu)
+
+Neither of these are official, however many users have reported success with these methods.
+
+- [macOS](https://osu.ppy.sh/community/forums/topics/1106057?n=1)
+- [Linux](https://github.com/NelloKudo/osu-winello)
+
 ### Alternative game clients
 
 ###### These are game clients that *do not connect to osu! servers*, but may be useful for practice, writing tools or other things.
