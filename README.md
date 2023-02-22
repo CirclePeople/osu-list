@@ -3,14 +3,15 @@
 An awesome-style list of osu! projects built by the community. Circle People is not affiliated with & does not endorse any projects listed here.
 
 ## Table of Contents
+
   * [Official osu! projects](#official-osu-projects)
   * [Gameplay](#gameplay)
     + [Alternative game clients](#alternative-game-clients)
-    + [Rulesets](#rulesets)
+    * [Rulesets](#rulesets)
     + [Beatmap mirrors](#beatmap-mirrors)
-    + [Chatbots](#chatbots)
+  + [Chatbots](#chatbots)
       - [Discord](#discord)
-      - [In-game](#in-game)
+      * [In-game](#in-game)
     + [Streaming tools](#streaming-tools)
     + [Chat clients](#chat-clients)
     + [Userscripts](#userscripts)
@@ -69,9 +70,7 @@ An awesome-style list of osu! projects built by the community. Circle People is 
 | [Chimu](https://chimu.moe/)            |                                               |
 | [Mino](https://catboy.best/)           |                                               |
 
-### Chatbots
-
-#### Discord
+### Chatbots (Discord)
 
 | Bot                                                   | Description/Notes                                                     |
 | ----------------------------------------------------- | --------------------------------------------------------------------- |
@@ -82,14 +81,14 @@ An awesome-style list of osu! projects built by the community. Circle People is 
 | [MissAnalyzer](https://top.gg/bot/752035690237394944) | osu! bot for replay analysis                                          |
 | [Yuna](https://top.gg/bot/832597585923014676)         | osu! replay recording bot                                             |
 | [Shisha](https://shisha.mezo.xyz/)                    | osu! replay recording bot approved by the creator of [danser][danser] |
-| [Sombrax79](https://ost.sombrax79.org/commands)       | Bot for stamina training recommendations                              |
+| [Sombrax79](https://ost.sombrax79.org/commands)       | Bot for stamina training recoomendations                              |
 
-#### In-game 
+### Bots (in-game)
 
 | Bot                                                         | Description/Notes                        |
 | ----------------------------------------------------------- | ---------------------------------------- |
 | [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) | Bot for beatmap recommendations          |
-| [Sombrax79](https://ost.sombrax79.org/commands)             | Bot for stamina training recommendations |
+| [Sombrax79](https://ost.sombrax79.org/commands)             | Bot for stamina training recoomendations |
 
 ### Streaming tools
 
@@ -117,10 +116,14 @@ An awesome-style list of osu! projects built by the community. Circle People is 
 
 ![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
 
-| URL                                                        | Description                     |
-| ---------------------------------------------------------- | ------------------------------- |
-| [storybrew](https://github.com/Damnae/storybrew)           | Storyboard generator for osu!   |
-| [mapping_tools](https://github.com/OliBomby/Mapping_Tools) | Tools for manipulating beatmaps |
+| URL                                                                            | Description                                                                                        |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| [storybrew](https://github.com/Damnae/storybrew)                               | Storyboard generator for osu!                                                                      |
+| [mapping_tools](https://github.com/OliBomby/Mapping_Tools)                     | Tools for manipulating beatmaps                                                                    |
+| [bezier=approximation](https://github.com/OliBomby/Bezier-Approximation)       | Bezier curve approximator                                                                          |
+| [Image-to-Anchors](https://github.com/OliBomby/Image-to-Anchors)               | Tool for converting images to slider anchors for view in the osu! editor.                          |
+| [Mapperator](https://github.com/mappingtools/Mapperator)                       | Efficient beatmap pattern search and beatmap construction based on features like rhythm & distance |
+| [osu-collaboration-bot](https://github.com/mappingtools/osu-collaboration-bot) | A Discord bot meant to streamline the organisation of mapping collabs for osu!                     |
 
 ## Skins
 
@@ -163,29 +166,31 @@ An awesome-style list of osu! projects built by the community. Circle People is 
 
 ### Utility libraries
 
-| Library                                                           | Language   | Description/Notes                                                                        |
-| ----------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
-| [rosu-pp](https://github.com/MaxOhn/rosu-pp)                      | rust       | Standalone crate to calculate star ratings and performance points for all osu! gamemodes |
-| [osu-classes](https://github.com/kionell/osu-classes)             | typescript | Rewrite of the basic class structure of osu!lazer in TypeScript                          |
-| [osu-parsers](https://github.com/kionell/osu-parsers)             | typescript | A bundle of TS parsers for all osu! data formats                                         |
-| [osu-pp-calculator](https://github.com/kionell/osu-pp-calculator) | typescript | The most up-to-date TS star rating/performance calculator library                        |
-| [gosu-pp](https://github.com/Wieku/gosu-pp)                       | go         | Port of osu!lazer difficulty and performance calculator in go                            |
-| [rosu-pp-py](https://github.com/MaxOhn/rosu-pp-py)                | python     | Python bindings for rosu-pp                                                              |
-| [rosu-pp-js](https://github.com/MaxOhn/rosu-pp-js)                | javascript | JS bindings for rosu-pp                                                                  |
-| [akatsuki-pp-go](https://github.com/osuAkatsuki/akatsuki-pp-go)   | golang     | Go bindings for rosu-pp                                                                  |
-| [akatsuki-pp](https://github.com/osuAkatsuki/Akatsuki.PP)         | c#         | c# bindings for rosu-pp                                                                  |
-| [bancho.js](https://github.com/ThePooN/bancho.js)                 | javascript | ThePoon's bancho library                                                                 |
-| [slider](https://github.com/llllllllll/slider)                    | python     | osu! file format parser                                                                  |
+| Library                                                              | Language   | Description/Notes                                                                        |
+| -------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
+| [rosu-pp](https://github.com/MaxOhn/rosu-pp)                         | rust       | Standalone crate to calculate star ratings and performance points for all osu! gamemodes |
+| [osu-classes](https://github.com/kionell/osu-classes)                | typescript | Rewrite of the basic class structure of osu!lazer in TypeScript                          |
+| [osu-parsers](https://github.com/kionell/osu-parsers)                | typescript | A bundle of TS parsers for all osu! data formats                                         |
+| [osu-pp-calculator](https://github.com/kionell/osu-pp-calculator)    | typescript | The most up-to-date TS star rating/performance calculator library                        |
+| [gosu-pp](https://github.com/Wieku/gosu-pp)                          | go         | Port of osu!lazer difficulty and performance calculator in go                            |
+| [rosu-pp-py](https://github.com/MaxOhn/rosu-pp-py)                   | python     | Python bindings for rosu-pp                                                              |
+| [rosu-pp-js](https://github.com/MaxOhn/rosu-pp-js)                   | javascript | JS bindings for rosu-pp                                                                  |
+| [akatsuki-pp-go](https://github.com/osuAkatsuki/akatsuki-pp-go)      | golang     | Go bindings for rosu-pp                                                                  |
+| [akatsuki-pp](https://github.com/osuAkatsuki/Akatsuki.PP)            | c#         | c# bindings for rosu-pp                                                                  |
+| [bancho.js](https://github.com/ThePooN/bancho.js)                    | javascript | ThePoon's bancho library                                                                 |
+| [slider](https://github.com/llllllllll/slider)                       | python     | osu! file format parser                                                                  |
+| [mapping_tools_core](https://github.com/OliBomby/Mapping_Tools_Core) | c#         | C# library for interacting with beatmaps                                                 |
 
 ## Other projects
 
-| URL                                                                                  | Description/Notes                                             |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| [osu! matchmaking](https://oma.hwc.hr/)                                              | Competitive matchmaking system for osu!                       |
-| [minipad](https://minipad.minii.moe)                                                 | Open-Source wooting-like analog keypad with rapid trigger     |
-| [osu! batch beatmap downloader](https://github.com/nzbasic/batch-beatmap-downloader) | Tool for easily downloading large amounts of osu! maps        |
-| [osu-trainer](https://github.com/FunOrange/osu-trainer)                              | Tool, that allows you to create speed up difficulties of maps |
-| [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)             | Open source, cross-platform, user-mode tablet driver          |
+| URL                                                                                  | Description/Notes                                                       |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| [osu! matchmaking](https://oma.hwc.hr/)                                              | Competitive matchmaking system for osu!                                 |
+| [minipad](https://minipad.minii.moe)                                                 | Open-Source wooting-like analog keypad with rapid trigger               |
+| [osu! batch beatmap downloader](https://github.com/nzbasic/batch-beatmap-downloader) | Tool for easily downloading large amounts of osu! maps                  |
+| [osu-trainer](https://github.com/FunOrange/osu-trainer)                              | Tool, that allows you to create speed up difficulties of maps           |
+| [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)             | Open source, cross-platform, user-mode tablet driver                    |
+| [PMDF](https://github.com/Piotrekol/ProcessMemoryDataFinder)                         | Library for interacting with in-memory values, used for StreamCompanion |
 
 [//]: <> (Reference links sorted alphabetically)
 
