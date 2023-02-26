@@ -168,13 +168,13 @@ Neither of these are official, however many users have reported success with the
 
 | Library                                                           | Language   | Description/Notes                                                                     |
 | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- |
-| [aiosu](https://github.com/niceaesth/aiosu)                       | python     | Async python library for interacting with the osu! API.                               |
+| [aiosu](https://github.com/niceaesth/aiosu)                       | python     | Async Python library for everything osu! related                                      |
 | [ossapi](https://github.com/circleguard/ossapi)                   | python     | Python library for interacting with the osu! API.                                     |
 | [osu-api-extended](https://github.com/cyperdark/osu-api-extended) | typescript |                                                                                       |
 | [rosu-v2](https://github.com/MaxOhn/rosu-v2)                      | rust       | Actively maintained osu!apiv2 wrapper                                                 |
 | [rosu](https://github.com/MaxOhn/rosu)                            | rust       |                                                                                       |
 | [OsuSharp](https://github.com/Kiritsu/OsuSharp)                   | c#         | Unofficial wrapper for the osu! API (V1, V2) written in C# and compatible with .NET 5 |
-| [osu.py](https://github.com/SawshaDev/osu.py)                     | python     | An minimal async python wrapper for the osu API
+| [osu.py](https://github.com/SawshaDev/osu.py)                     | python     | A minimal async python wrapper for the osu API                                        |
 
 ### Utility libraries
 
@@ -192,6 +192,7 @@ Neither of these are official, however many users have reported success with the
 | [bancho.js](https://github.com/ThePooN/bancho.js)                    | javascript | ThePoon's bancho library                                                                 |
 | [slider](https://github.com/llllllllll/slider)                       | python     | osu! file format parser                                                                  |
 | [mapping_tools_core](https://github.com/OliBomby/Mapping_Tools_Core) | c#         | C# library for interacting with beatmaps                                                 |
+| [aiordr](https://github.com/NiceAesth/aiordr)                        | python     | Python library for replay recording                                                      |
 
 ## Other projects
 
