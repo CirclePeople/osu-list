@@ -8,11 +8,11 @@ An awesome-style list of osu! projects built by the community. Circle People is 
   * [Gameplay](#gameplay)
     + [Other operating systems](#other-operating-systems-osu-stable-client)
     + [Alternative game clients](#alternative-game-clients)
-    * [Rulesets](#rulesets)
+    + [Rulesets](#rulesets)
     + [Beatmap mirrors](#beatmap-mirrors)
-  + [Chatbots](#chatbots)
-      - [Discord](#discord)
-      * [In-game](#in-game)
+  + [Chatbots](#osu-chatbots)
+      + [Discord](#discord-chatbots)
+      + [In-game](#in-game-chatbots)
     + [Streaming tools](#streaming-tools)
     + [Chat clients](#chat-clients)
     + [Userscripts](#userscripts)
@@ -21,6 +21,7 @@ An awesome-style list of osu! projects built by the community. Circle People is 
   * [Skins](#skins)
     + [Skinning resources](#skinning-resources)
     + [Skin listing](#skin-listing)
+    + [Skin tools](#skin-tools)
   * [Development](#development)
     + [Documentation](#documentation)
     + [API libraries](#api-libraries)
@@ -37,6 +38,7 @@ An awesome-style list of osu! projects built by the community. Circle People is 
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [osu!](https://osu.ppy.sh)                            | The official website for the rhythm game osu!.                                                       |
 | [osu!lazer](https://github.com/ppy/osu)               | osu!lazer source code, the next generation client for osu!                                           |
+| [osu!stream](https://osustream.com/)                  | A very early adaptation of osu! for mobile devices, not maintained.                                  |
 | [osu!web](https://github.com/ppy/osu-web)             | osu!'s website source code                                                                           |
 | [osu!wiki](https://github.com/ppy/osu-wiki)           | The home of the community-managed wiki for osu!                                                      |
 | [osu!framework](https://github.com/ppy/osu-framework) | The framework that powers osu!, including features that can be used to make other games/applications |
@@ -57,12 +59,11 @@ Neither of these are official, however many users have reported success with the
 
 ###### These are game clients that *do not connect to osu! servers*, but may be useful for practice, writing tools or other things.
 
-| Client                                                    | Description                                              |
-| --------------------------------------------------------- | -------------------------------------------------------- |
-| [opsu!](https://itdelatrisu.github.io/opsu/)              | Unofficial osu! client in Java                           |
-| [osu!droid](http://ops.dgsrz.com/)                        | An open-source client for osu! on the Android platform   |
-| [McOsu](https://store.steampowered.com/app/607260/McOsu/) | An osu! client designed for practice, with VR support    |
-| [Danser][danser]                                          | open-source osu! visualisation and replay recording tool |
+| Client                                                    | Description                                                    |
+| --------------------------------------------------------- | -------------------------------------------------------------- |
+| [opsu!](https://itdelatrisu.github.io/opsu/)              | An unofficial open-source osu! client written in Java          |
+| [McOsu](https://store.steampowered.com/app/607260/McOsu/) | An osu! client designed for practice, with VR support          |
+| [osu!droid](http://ops.dgsrz.com/)                        | An open-source fanmade client of osu! for the Android platform |
 
 ### Rulesets
 
@@ -76,11 +77,12 @@ Neither of these are official, however many users have reported success with the
 | -------------------------------------- | --------------------------------------------- |
 | [Beatconnect](https://beatconnect.io/) | Comprehensive beatmap mirror with API support |
 | [Nerinyan](https://nerinyan.moe/)      |                                               |
-| [Kitsu](https://kitsu.moe/)            |                                               |
+| [osu.direct](https://osu.direct/home)  |                                               |
 | [Chimu](https://chimu.moe/)            |                                               |
 | [Mino](https://catboy.best/)           |                                               |
 
-### Chatbots (Discord)
+## Osu! chatbots
+### Discord chatbots
 
 | Bot                                                   | Description/Notes                                                     |
 | ----------------------------------------------------- | --------------------------------------------------------------------- |
@@ -91,22 +93,33 @@ Neither of these are official, however many users have reported success with the
 | [MissAnalyzer](https://top.gg/bot/752035690237394944) | osu! bot for replay analysis                                          |
 | [Yuna](https://top.gg/bot/832597585923014676)         | osu! replay recording bot                                             |
 | [Shisha](https://shisha.mezo.xyz/)                    | osu! replay recording bot approved by the creator of [danser][danser] |
-| [Sombrax79](https://ost.sombrax79.org/commands)       | Bot for stamina training recoomendations                              |
+| [Sombrax79](https://ost.sombrax79.org/commands)       | Bot for stamina training recommendations                              |
 
-### Bots (in-game)
+### In-Game chatbots
 
 | Bot                                                         | Description/Notes                                       |
-| ----------------------------------------------------------- | --------------------------------------------------------|
+| ----------------------------------------------------------- | ------------------------------------------------------- |
 | [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) | Bot for beatmap recommendations                         |
-| [Sombrax79](https://ost.sombrax79.org/commands)             | Bot for stamina training recoomendations                |
-| [goeobot](https://osu.ppy.sh/users/24993021)                | Actively maintained irc bot for beatmap reccomendations |
+| [Sombrax79](https://ost.sombrax79.org/commands)             | Bot for stamina training recommendations                |
+| [Elitebotix](https://osu.ppy.sh/users/31050083)             | A osu! bot focused around tournaments and analysis.     |
+| [goeobot](https://osu.ppy.sh/users/24993021)                | Actively maintained irc bot for beatmap recommendations |
+
+### Lobby chatbots
+
+| Bot                                                             | Description/Notes                                       |
+| --------------------------------------------------------------- | ------------------------------------------------------- |
+| [AutoHost](https://osu.ppy.sh/users/8921697)                    | osu!'s official autohost bot.                           |
+| [osu-ahr](https://github.com/Meowhal/osu-ahr)                   | Auto Host Rotation bot for osu! multiplayer.            |
+| [script-chan](https://git.cartooncraft.fr/shARPII/script-chan/) | A bot used to create and handle matches/players easily. |
 
 ### Streaming tools
 
-| Tool                                                             | Description                                                          |
-| ---------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [StreamCompanion](https://github.com/Piotrekol/StreamCompanion/) | A tool for streamers featuring a PP counter, map overlays, and more! |
-| [Ronnia](https://ronnia.me/)                                     | Twitch bot for linking maps from Twitch to ingame chat               |
+| Tool                                                             | Description                                                                      |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [StreamCompanion](https://github.com/Piotrekol/StreamCompanion/) | A tool for streamers featuring a PP counter, map overlays, and more!             |
+| [gosumemory](https://github.com/l3lackShark/gosumemory)          | Cross-Platform memory reader for osu! featuring web-based & in-game pp counters. |
+| [Ronnia](https://ronnia.me/)                                     | Twitch bot for linking maps from Twitch to ingame chat                           |
+| [Danser][danser]                                                 | High fps video creation tool for osu! replays.                                   |
 
 ### Chat clients
 
@@ -114,14 +127,16 @@ Neither of these are official, however many users have reported success with the
 
 ### Userscripts
 
-- [osuplus](https://github.com/limjeck/osuplus) - **requires osu! APIv1 key**
-- [osu-web extended](https://osu.ppy.sh/community/forums/topics/1361818)
-
+- [osuplus](https://github.com/limjeck/osuplus) - _requires osu!APIv1 key_
+- [osu!web enhanced](https://osu.ppy.sh/community/forums/topics/1361818)
+- [osu!web color changer](https://osuck.link/color)
 ### Collections
 
 | URL                                                                 | Description                                                                 |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [CollectionManager](https://github.com/Piotrekol/CollectionManager) | An extensive tool for creating, editing, and exporting of osu! collections. |
+| [osuCollector!](https://osucollector.com/)                          | Explore curated beatmap collections from fellow players.                    |
+| [osu-pps](https://osu-pps.com/)                                     | A list of the most overweighted maps in osu!.                               |
 
 ## Mapping
 
@@ -130,9 +145,10 @@ Neither of these are official, however many users have reported success with the
 | URL                                                                            | Description                                                                                        |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | [storybrew](https://github.com/Damnae/storybrew)                               | Storyboard generator for osu!                                                                      |
-| [mapping_tools](https://github.com/OliBomby/Mapping_Tools)                     | Tools for manipulating beatmaps                                                                    |
-| [bezier=approximation](https://github.com/OliBomby/Bezier-Approximation)       | Bezier curve approximator                                                                          |
-| [Image-to-Anchors](https://github.com/OliBomby/Image-to-Anchors)               | Tool for converting images to slider anchors for view in the osu! editor.                          |
+| [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)                   | A desktop app which tests quantifyable issues in osu! beatmapsets.                                 |
+| [Mapping Tools ](https://github.com/OliBomby/Mapping_Tools)                    | Tools for manipulating beatmaps                                                                    |
+| [bezier-approximation](https://github.com/OliBomby/Bezier-Approximation)       | Bezier curve approximator                                                                          |
+| [Image to Anchors](https://github.com/OliBomby/Image-to-Anchors)               | Tool for converting images to slider anchors for view in the osu! editor.                          |
 | [Mapperator](https://github.com/mappingtools/Mapperator)                       | Efficient beatmap pattern search and beatmap construction based on features like rhythm & distance |
 | [osu-collaboration-bot](https://github.com/mappingtools/osu-collaboration-bot) | A Discord bot meant to streamline the organisation of mapping collabs for osu!                     |
 
@@ -142,20 +158,33 @@ Neither of these are official, however many users have reported success with the
 
 ![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
 
-| URL                                   | Description             |
-| ------------------------------------- | ----------------------- |
-| [osuskinner](https://osuskinner.com/) | Skin generator for osu! |
+| URL                                   | Description                               |
+| ------------------------------------- | ----------------------------------------- |
+| [osuskinner](https://osuskinner.com/) | Online tool for skin mixing and creation. |
 
 ### Skin listing
 
 ![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
 
-| URL                                                  | Description/Notes                                    |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| [Circle People](https://circlepeople.com)            | Skins from many top players featured on the channel. |
-| [rudj skinhub](https://github.com/rudj-skinhub/woal) | Collection of skin sources from many players         |
+| URL                                                     | Description/Notes                                                  |
+| ------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Circle People](https://circlepeople.com)               | Skins from many top players featured on the channel.               |
+| [rudj skinhub](https://github.com/rudj-skinhub/woal)    | Collection of skin sources from many players                       |
+| [Skinship Compendium](https://compendium.skinship.xyz/) | A comprehensive archive of all completed skins from the osu!forum. |
+| [Osuck Skins](https://skins.osuck.net/)                 | Discover a vast selection of osu!skins in one convenient place.    |
+
+### Skin tools
+
+![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
+
+| URL                                                       | Description/Notes                                                         |
+| --------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [OsuSkinMixer](https://github.com/rednir/OsuSkinMixer)    | Mix and manage your osu! skins with ease!                                 |
+| [OsuSkinChecker](https://github.com/RoanH/osuSkinChecker) | Simple program to check if all the elements for an osu! skin are present. |
+
 
 ## Development
+
 
 ### Documentation
 
@@ -169,10 +198,10 @@ Neither of these are official, however many users have reported success with the
 | Library                                                           | Language   | Description/Notes                                                                     |
 | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- |
 | [aiosu](https://github.com/niceaesth/aiosu)                       | python     | Async Python library for everything osu! related                                      |
-| [ossapi](https://github.com/circleguard/ossapi)                   | python     | Python library for interacting with the osu! API.                                     |
-| [osu-api-extended](https://github.com/cyperdark/osu-api-extended) | typescript |                                                                                       |
+| [ossapi](https://github.com/circleguard/ossapi)                   | python     | A definitive python wrapper for the osu! api.                                         |
+| [osu-api-extended](https://github.com/cyperdark/osu-api-extended) | typescript | Package for advanced work with "osu" api                                              |
+| [rosu](https://github.com/MaxOhn/rosu)                            | rust       | A rust wrapper for osu!apiv1.                                                         |
 | [rosu-v2](https://github.com/MaxOhn/rosu-v2)                      | rust       | Actively maintained osu!apiv2 wrapper                                                 |
-| [rosu](https://github.com/MaxOhn/rosu)                            | rust       |                                                                                       |
 | [OsuSharp](https://github.com/Kiritsu/OsuSharp)                   | c#         | Unofficial wrapper for the osu! API (V1, V2) written in C# and compatible with .NET 5 |
 | [osu.py](https://github.com/SawshaDev/osu.py)                     | python     | A minimal async python wrapper for the osu API                                        |
 
@@ -196,14 +225,19 @@ Neither of these are official, however many users have reported success with the
 
 ## Other projects
 
-| URL                                                                                  | Description/Notes                                                       |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| [osu! matchmaking](https://oma.hwc.hr/)                                              | Competitive matchmaking system for osu!                                 |
-| [minipad](https://minipad.minii.moe)                                                 | Open-Source wooting-like analog keypad with rapid trigger               |
-| [osu! batch beatmap downloader](https://github.com/nzbasic/batch-beatmap-downloader) | Tool for easily downloading large amounts of osu! maps                  |
-| [osu-trainer](https://github.com/FunOrange/osu-trainer)                              | Tool, that allows you to create speed up difficulties of maps           |
-| [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)             | Open source, cross-platform, user-mode tablet driver                    |
-| [PMDF](https://github.com/Piotrekol/ProcessMemoryDataFinder)                         | Library for interacting with in-memory values, used for StreamCompanion |
+| URL                                                                                  | Description/Notes                                                                                        |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| [osu! matchmaking](https://oma.hwc.hr/)                                              | Competitive matchmaking system for osu!                                                                  |
+| [osumapper](https://github.com/kotritrona/osumapper)                                 | An automatic beatmap generator using Tensorflow / Deep Learning.                                         |
+| [Osekai.net](https://osekai.net/home/)                                               | the home of alternative rankings, in-depth profile info, medal solutions, hundreds of versions, and more |
+| [Rewind](https://github.com/abstrakt8/rewind)                                        | A beatmap/replay analyzer for the rhythm game called osu!                                                |
+| [CircleGuard](https://github.com/circleguard/circleguard)                            | A tool to help you analyze osu! replays.                                                                 |
+| [minipad](https://minipad.minii.moe)                                                 | Open-Source wooting-like analog keypad with rapid trigger                                                |
+| [osu! batch beatmap downloader](https://github.com/nzbasic/batch-beatmap-downloader) | Tool for easily downloading large amounts of osu! maps                                                   |
+| [FunOrange's osu!trainer](https://github.com/FunOrange/osu-trainer)                  | A tool that allows you to modify the difficulty of a beatmap very easily.                                |
+| [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)             | Open source, cross-platform, user-mode tablet driver                                                     |
+| [gosumemory](https://github.com/l3lackShark/gosumemory)                              | Cross-Platform memory reader for osu!                                                                    |
+| [PMDF](https://github.com/Piotrekol/ProcessMemoryDataFinder)                         | Library for interacting with in-memory values, used for StreamCompanion                                  |
 
 [//]: <> (Reference links sorted alphabetically)
 
