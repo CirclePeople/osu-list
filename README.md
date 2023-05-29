@@ -146,7 +146,7 @@ Neither of these are official, however many users have reported success with the
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | [storybrew](https://github.com/Damnae/storybrew)                               | Storyboard generator for osu!                                                                      |
 | [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)                   | A desktop app which tests quantifyable issues in osu! beatmapsets.                                 |
-| [Mapping Tools ](https://github.com/OliBomby/Mapping_Tools)                    | Tools for manipulating beatmaps                                                                    |
+| [Mapping Tools](https://github.com/OliBomby/Mapping_Tools)                     | Tools for manipulating beatmaps                                                                    |
 | [bezier-approximation](https://github.com/OliBomby/Bezier-Approximation)       | Bezier curve approximator                                                                          |
 | [Image to Anchors](https://github.com/OliBomby/Image-to-Anchors)               | Tool for converting images to slider anchors for view in the osu! editor.                          |
 | [Mapperator](https://github.com/mappingtools/Mapperator)                       | Efficient beatmap pattern search and beatmap construction based on features like rhythm & distance |
