@@ -194,15 +194,14 @@ Neither of these are official, however many users have reported success with the
 
 ###### ⚠ These libraries are maintained by the community, and may have minor differences from the official API. Your mileage may vary.
 
-| Library                                                           | Language   | Description/Notes                                                                     |
-| ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- |
-| [aiosu](https://github.com/niceaesth/aiosu)                       | python     | Async Python library for everything osu! related                                      |
-| [ossapi](https://github.com/circleguard/ossapi)                   | python     | A definitive python wrapper for the osu! api.                                         |
-| [osu-api-extended](https://github.com/cyperdark/osu-api-extended) | typescript | Package for advanced work with "osu" api                                              |
-| [rosu](https://github.com/MaxOhn/rosu)                            | rust       | A rust wrapper for osu!apiv1.                                                         |
-| [rosu-v2](https://github.com/MaxOhn/rosu-v2)                      | rust       | Actively maintained osu!apiv2 wrapper                                                 |
-| [OsuSharp](https://github.com/Kiritsu/OsuSharp)                   | c#         | Unofficial wrapper for the osu! API (V1, V2) written in C# and compatible with .NET 5 |
-| [osu.py](https://github.com/SawshaDev/osu.py)                     | python     | A minimal async python wrapper for the osu API                                        |
+| Library                                                                                | Language   | Description/Notes                                                                     |
+| -------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------- |
+| [aiosu](https://github.com/niceaesth/aiosu)                                            | python     | Async Python library for everything osu! related                                      |
+| [ossapi](https://github.com/circleguard/ossapi)                                        | python     | A definitive python wrapper for the osu! api.                                         |
+| [osu-api-extended](https://github.com/cyperdark/osu-api-extended)                      | typescript | Package for advanced work with "osu" api                                              |
+| [rosuv1](https://github.com/MaxOhn/rosu) / [rosuv2](https://github.com/MaxOhn/rosu-v2) | rust       | A rust wrapper for osu!api v1 / v2.                                                   |
+| [OsuSharp](https://github.com/Kiritsu/OsuSharp)                                        | c#         | Unofficial wrapper for the osu! API (V1, V2) written in C# and compatible with .NET 5 |
+| [osu.py](https://github.com/SawshaDev/osu.py)                                          | python     | A minimal async python wrapper for the osu API                                        |
 
 ### Utility libraries
 
