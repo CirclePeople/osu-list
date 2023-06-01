@@ -38,7 +38,7 @@ An awesome-style list of osu! projects built by the community. Circle People is 
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [osu!](https://osu.ppy.sh)                            | The official website for the rhythm game osu!.                                                       |
 | [osu!lazer](https://github.com/ppy/osu)               | osu!lazer source code, the next generation client for osu!                                           |
-| [osu!stream](https://osustream.com/)                  | A very early adaptation of osu! for mobile devices, not maintained.                                  |
+| [osu!stream](https://osustream.com/)                  | An official port of osu! on iOS and Android devices from a past era.                                  |
 | [osu!web](https://github.com/ppy/osu-web)             | osu!'s website source code                                                                           |
 | [osu!wiki](https://github.com/ppy/osu-wiki)           | The home of the community-managed wiki for osu!                                                      |
 | [osu!framework](https://github.com/ppy/osu-framework) | The framework that powers osu!, including features that can be used to make other games/applications |
@@ -164,7 +164,6 @@ Neither of these are official, however many users have reported success with the
 
 ### Skin listing
 
-![wip](https://img.shields.io/badge/note-Work%20in%20progress-yellow)
 
 | URL                                                     | Description/Notes                                                  |
 | ------------------------------------------------------- | ------------------------------------------------------------------ |
