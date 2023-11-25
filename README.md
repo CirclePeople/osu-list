@@ -216,6 +216,7 @@ Neither of these are official, however many users have reported success with the
 | [rosu-pp-js](https://github.com/MaxOhn/rosu-pp-js)                   | javascript | JS bindings for rosu-pp                                                                  |
 | [akatsuki-pp-go](https://github.com/osuAkatsuki/akatsuki-pp-go)      | golang     | Go bindings for rosu-pp                                                                  |
 | [akatsuki-pp](https://github.com/osuAkatsuki/Akatsuki.PP)            | c#         | c# bindings for rosu-pp                                                                  |
+| [akatsuki-pp-js](https://github.com/shockpast/akatsuki-pp-js)        | javascript | JS bindings for akatsuki-pp                                                              |
 | [bancho.js](https://github.com/ThePooN/bancho.js)                    | javascript | ThePoon's bancho library                                                                 |
 | [slider](https://github.com/llllllllll/slider)                       | python     | osu! file format parser                                                                  |
 | [mapping_tools_core](https://github.com/OliBomby/Mapping_Tools_Core) | c#         | C# library for interacting with beatmaps                                                 |
