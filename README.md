@@ -80,6 +80,7 @@ Neither of these are official, however many users have reported success with the
 | [osu.direct](https://osu.direct/home)  |                                               |
 | [Chimu](https://chimu.moe/)            |                                               |
 | [Mino](https://catboy.best/)           |                                               |
+| [Mirria](https://mirror.lisek.cc/)     |                                               |
 
 ## Osu! chatbots
 ### Discord chatbots
