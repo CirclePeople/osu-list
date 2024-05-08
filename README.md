@@ -238,7 +238,6 @@ Neither of these are official, however many users have reported success with the
 | [osu! batch beatmap downloader](https://github.com/nzbasic/batch-beatmap-downloader) | Tool for easily downloading large amounts of osu! maps                                                   |
 | [FunOrange's osu!trainer](https://github.com/FunOrange/osu-trainer)                  | A tool that allows you to modify the difficulty of a beatmap very easily.                                |
 | [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)             | Open source, cross-platform, user-mode tablet driver                                                     |
-| [gosumemory](https://github.com/l3lackShark/gosumemory)                              | Cross-Platform memory reader for osu!                                                                    |
 | [PMDF](https://github.com/Piotrekol/ProcessMemoryDataFinder)                         | Library for interacting with in-memory values, used for StreamCompanion                                  |
 | [wysi](https://wysi727.com/)                                                         | Open-source osu website alternative with player setup details.                                           |
 | [huismetbenen](https://pp.huismetbenen.nl/)                                          | Osu PP rankings alternatives supporting simulation of pp reworks.                                        |
