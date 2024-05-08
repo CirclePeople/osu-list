@@ -239,6 +239,7 @@ Neither of these are official, however many users have reported success with the
 | [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)             | Open source, cross-platform, user-mode tablet driver                                                     |
 | [gosumemory](https://github.com/l3lackShark/gosumemory)                              | Cross-Platform memory reader for osu!                                                                    |
 | [PMDF](https://github.com/Piotrekol/ProcessMemoryDataFinder)                         | Library for interacting with in-memory values, used for StreamCompanion                                  |
+| [wysi](https://wysi727.com/)                                                         | Open-source osu website alternative with player setup details.                                           |
 
 [//]: <> (Reference links sorted alphabetically)
 
