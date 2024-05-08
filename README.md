@@ -120,6 +120,7 @@ Neither of these are official, however many users have reported success with the
 | [gosumemory](https://github.com/l3lackShark/gosumemory)          | Cross-Platform memory reader for osu! featuring web-based & in-game pp counters. |
 | [Ronnia](https://ronnia.me/)                                     | Twitch bot for linking maps from Twitch to ingame chat                           |
 | [Danser][danser]                                                 | High fps video creation tool for osu! replays.                                   |
+| [tosu](https://tosu.app)                                         | Eponymous software for reading osu! memory, accounting for most of gosumemory's issues |
 
 ### Chat clients
 
