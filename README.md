@@ -84,6 +84,7 @@ servers*, but may be useful for practice, writing tools or other things.
 | [Nerinyan](https://nerinyan.moe/)      |                                               |
 | [osu.direct](https://osu.direct/home)  |                                               |
 | [Mino](https://catboy.best/)           |                                               |
+| [Mirria](https://mirror.lisek.cc/)     |                                               |
 
 ## Osu! chatbots
 
