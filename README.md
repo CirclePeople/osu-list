@@ -240,6 +240,7 @@ Neither of these are official, however many users have reported success with the
 | [gosumemory](https://github.com/l3lackShark/gosumemory)                              | Cross-Platform memory reader for osu!                                                                    |
 | [PMDF](https://github.com/Piotrekol/ProcessMemoryDataFinder)                         | Library for interacting with in-memory values, used for StreamCompanion                                  |
 | [wysi](https://wysi727.com/)                                                         | Open-source osu website alternative with player setup details.                                           |
+| [huismetbenen](https://pp.huismetbenen.nl/)                                          | Osu PP rankings alternatives supporting simulation of pp reworks.                                        |
 
 [//]: <> (Reference links sorted alphabetically)
 
