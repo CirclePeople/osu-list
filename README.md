@@ -152,6 +152,7 @@ Neither of these are official, however many users have reported success with the
 | [Image to Anchors](https://github.com/OliBomby/Image-to-Anchors)               | Tool for converting images to slider anchors for view in the osu! editor.                          |
 | [Mapperator](https://github.com/mappingtools/Mapperator)                       | Efficient beatmap pattern search and beatmap construction based on features like rhythm & distance |
 | [osu-collaboration-bot](https://github.com/mappingtools/osu-collaboration-bot) | A Discord bot meant to streamline the organisation of mapping collabs for osu!                     |
+| [beatmap-viewer-web](https://github.com/FukutoTojido/beatmap-viewer-web)       | Open-source browser-based beatmap viewer                                                           |
 
 ## Skins
 
