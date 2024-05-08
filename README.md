@@ -182,6 +182,7 @@ Neither of these are official, however many users have reported success with the
 | [OsuSkinMixer](https://github.com/rednir/OsuSkinMixer)    | Mix and manage your osu! skins with ease!                                 |
 | [OsuSkinChecker](https://github.com/RoanH/osuSkinChecker) | Simple program to check if all the elements for an osu! skin are present. |
 
+| [Osuck's skin.ini editor](https://skins.osuck.net/tools/skin.ini) | Create your skin.ini file via a web interface.                            |
 
 ## Development
 
