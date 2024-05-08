@@ -83,7 +83,6 @@ servers*, but may be useful for practice, writing tools or other things.
 | [Beatconnect](https://beatconnect.io/) | Comprehensive beatmap mirror with API support |
 | [Nerinyan](https://nerinyan.moe/)      |                                               |
 | [osu.direct](https://osu.direct/home)  |                                               |
-| [Chimu](https://chimu.moe/)            |                                               |
 | [Mino](https://catboy.best/)           |                                               |
 
 ## Osu! chatbots
