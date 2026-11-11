@@ -178,6 +178,7 @@ servers*, but may be useful for practice, writing tools or other things.
 | [rudj skinhub](https://github.com/rudj-skinhub/woal)    | Collection of skin sources from many players                       |
 | [Skinship Compendium](https://compendium.skinship.xyz/) | A comprehensive archive of all completed skins from the osu!forum. |
 | [Osuck Skins](https://skins.osuck.net/)                 | Discover a vast selection of osu!skins in one convenient place.    |
+| [osuskins.org](https://osuskins.org/) | Catalogue of 4,000+ osu! skins ranked by real o!rdr usage, every creator credited, dead download links checked. No ad-gate or login. |
 
 ### Skin tools
 
